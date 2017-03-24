@@ -1,6 +1,8 @@
-# hello new fledgings
+# hello new pledges
 
-# get ready to fly
+# welcome to Omega-Epsilon-Beta-Sigma, aka WEBS
+
+# 
 
 # BOSSWAVE
 
