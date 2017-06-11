@@ -6,17 +6,17 @@
 
 # Basic Essentials 
   1. UNIX Commands
-     Echo : 
+     *1. Echo : 
 	○ E.g.
-     More :
+     *2. More :
 		○ E.g.
-⋅⋅⋅⋅* Less :
+     *3. Less :
 		○ E.g.
-⋅⋅⋅⋅* Mkdir : make a new directory
+     *4. Mkdir : make a new directory
 		○ E.g.
-⋅⋅⋅⋅* rmdir : Remove directory
+     *5. rmdir : Remove directory
         ○ E.g. 
-⋅⋅⋅⋅* Mv : move file  from one directory to another
+     *6. Mv : move file  from one directory to another
 		○ E.g.
 ⋅⋅⋅⋅* Cp : copy file from one directory to another
 		○ E.g.
