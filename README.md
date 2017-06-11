@@ -1,10 +1,9 @@
-# hello
+ hello
 
-# welcome, extravagant brilliant souls, to WEBS
-
-# we are your predecessors and, having once been in your exact place, have created a handbook you can consult whenever you need. Enjoy!
-
-
+ welcome, extravagant brilliant souls, to WEBS
+#
+ we are your predecessors and, having once been in your exact place, have created a handbook you can consult whenever you need. Enjoy!
+#
 # Essentials 
   1. UNIX Commands
 
