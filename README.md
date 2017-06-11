@@ -5,10 +5,10 @@
 # 
 
 # Basic Essentials 
-⋅⋅1. UNIX Commands
-⋅⋅⋅⋅* Echo : 
-		○ E.g.
-⋅⋅⋅⋅* More :
+  1. UNIX Commands
+     Echo : 
+	○ E.g.
+     More :
 		○ E.g.
 ⋅⋅⋅⋅* Less :
 		○ E.g.
