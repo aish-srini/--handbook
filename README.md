@@ -12,25 +12,25 @@
 		○ E.g.
 	2. More :
 		○ E.g.
-     	3. Less :
+	3. Less :
 		○ E.g.
-     	4. Mkdir : make a new directory
+	4. Mkdir : make a new directory
 		○ E.g.
-     *5. rmdir : Remove directory
-        ○ E.g. 
-     *6. Mv : move file  from one directory to another
+	5. rmdir : Remove directory
+		○ E.g. 
+	6. Mv : move file  from one directory to another
 		○ E.g.
-⋅⋅⋅⋅* Cp : copy file from one directory to another
+	7. Cp : copy file from one directory to another
 		○ E.g.
-⋅⋅⋅⋅* Grep :
+	8. Grep :
 		○ E.g.
-⋅⋅⋅⋅* Find :
+	9. Find :
 		○ E.g.
-⋅⋅⋅⋅* History - find previous commands you’ve typed w/ similar words
+	10. History - find previous commands you’ve typed w/ similar words
 		○ E.g. -  history | grep “build"
-⋅⋅⋅⋅* Man - if you know the command, but don’t know how to use it
+	11. Man - if you know the command, but don’t know how to use it
 		○ "Man command", "man mount"
-⋅⋅⋅⋅* Pwd - shows the filepath of your current directory
+	12. Pwd - shows the filepath of your current directory
 		○ "pwd"
 
 
