@@ -6,8 +6,8 @@
 
 # Basic Essentials 
   1. UNIX Commands
-  ⋅⋅*
-	1. Echo : 
+
+	⋅⋅* 1. Echo : 
 		○ E.g.
 	2. More :
 		○ E.g.
