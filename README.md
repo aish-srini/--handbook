@@ -1,10 +1,11 @@
-# hello new pledges
+# hello
 
-# welcome to Omega-Epsilon-Beta-Sigma, aka WEBS
+# welcome, extravagant brilliant souls, to WEBS
 
-# 
+# we are your predecessors and, having once been in your exact place, have created a handbook you can consult whenever you need. Enjoy!
 
-# Basic Essentials 
+
+# Essentials 
   1. UNIX Commands
 
 	⋅⋅*
