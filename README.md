@@ -7,13 +7,14 @@
 # Basic Essentials 
   1. UNIX Commands
 
-	⋅⋅* 1. Echo : 
+	⋅⋅*
+	1. Echo : 
 		○ E.g.
 	2. More :
 		○ E.g.
-     *3. Less :
+     	3. Less :
 		○ E.g.
-     *4. Mkdir : make a new directory
+     	4. Mkdir : make a new directory
 		○ E.g.
      *5. rmdir : Remove directory
         ○ E.g. 
