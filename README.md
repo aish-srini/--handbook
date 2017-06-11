@@ -39,10 +39,30 @@
 	
 	
 		
+  2. Git Commands (if you decide to save everything on your github account)
+  	
+	⋅⋅*
+	1. 
+	
+	
+  3. Networking Concepts
+  
+  
+  
+  4. GoLang
+  
+  
+  
+  5. Docker
+  
+  
+  
+  6. Bosswave
+  
+  
 
 
-
-wow wow muchos errores
+wow wow much error, such confusion
 
 You may encounter this error along the way. Try "go get"-ing
 
