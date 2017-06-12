@@ -72,20 +72,28 @@ We are your predecessors and, having once been in your exact place, have created
   
   
   
-  5. GoLang
+# Languages and Programs
+
+  1. GoLang
   	⋅⋅*
   
   
   
-  6. Docker
+  2. Docker
   	⋅⋅*
   
   
   
-  7. Bosswave
+  3. Bosswave
   	⋅⋅*
   
-  
+# Projects 
+
+  1. Create a container
+  2. Rock-Paper-Scissors
+  	- Create a client-server interaction platform
+	- Rules:
+  3. 
 
 
 wow wow much error, such confusion
