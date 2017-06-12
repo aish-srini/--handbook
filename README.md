@@ -89,7 +89,8 @@ We are your predecessors and, having once been in your exact place, have created
 	
 
   4. VMWare
-  	..*
+
+	..*
   	1. hi
 	2. bye
 	
@@ -98,21 +99,24 @@ We are your predecessors and, having once been in your exact place, have created
 # Languages and Programs
 
   1. GoLang
-  	⋅⋅*
+
+	⋅⋅*
 	1. hi
 	2. k bye
   
   
   
   2. Docker
-  	⋅⋅*
+
+	⋅⋅*
 	1. hi
 	2. k bye
   
   
   
   3. Bosswave
-  	⋅⋅*
+
+	⋅⋅*
 	1. hi
 	2. k bye
 	
@@ -125,6 +129,7 @@ We are your predecessors and, having once been in your exact place, have created
 	- Rules:
   3. 
 
+#
 
 wow wow much error, such confusion
 
