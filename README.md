@@ -53,7 +53,9 @@ We are your predecessors and, having once been in your exact place, have created
 	
 	
   3. Networking Concepts
-  	..*
+  	
+	
+	..*
 	1. Operating Systems
 		1. UNIX-based Operating Systems
 			1. Linux
