@@ -7,6 +7,7 @@ We are your predecessors and, having once been in your exact place, have created
 # Essentials 
   1. Common UNIX Commands
 
+	..*
 	1. Echo : displays a line of text.
 		○ E.g. - "echo hello what is your name" --> hello what is your name
 	2. More : look at file, one page at a time
@@ -40,6 +41,7 @@ We are your predecessors and, having once been in your exact place, have created
 
   2. Git Commands (if you decide to save anything on your github account)
  
+ 	..*
 	1. git config
 	2. git add
 	3. git init - initializes a git repository in a new or existing 
@@ -51,6 +53,7 @@ We are your predecessors and, having once been in your exact place, have created
 	
 	
   3. Networking Concepts
+  	..*
 	- OSI Model
 	- Topology Networks
 	- DHCP
@@ -65,7 +68,7 @@ We are your predecessors and, having once been in your exact place, have created
 	
 
   4. VMWare
-  
+  	..*
   
   
   
