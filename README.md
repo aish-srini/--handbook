@@ -54,38 +54,66 @@ We are your predecessors and, having once been in your exact place, have created
 	
   3. Networking Concepts
   	..*
-	- OSI Model
-	- Topology Networks
-	- DHCP
-	- DNS
-	- TCP/IP
-	- Switches
-	- Networks (Subnets / Private and Public networks)
-	- Client-Server (server-based networking)
-	- IPv4 versus IPv6
-	- VPN
+	1. Operating Systems
+		1. UNIX-based Operating Systems
+			1. Linux
+			2. Mac/OS
+		2. Windows
+	2. OSI Model
+		1. 7 layers:
+			1. hi
+			2. hi
+			3. hi
+			4. hi
+			5. hi
+			6. hi
+			7. hi
+	3. Topology Networks
+	4. Networks (Subnets / Private and Public networks)
+	5. TCP/IP
+		1. IPv4 versus IPv6
+	6. DHCP
+	7. DNS
+	8. Switches
+	9. Ports
+	10. Client-Server (server-based networking)
+	11. VPN
+	12. Security
+		1. Attacks and Vulnerabilities
+			1. DDos
+		2. Firewalls
+		3. Public and Private Keys
 
 	
 
   4. VMWare
   	..*
-  
+  	1. hi
+	2. bye
+	
   
   
 # Languages and Programs
 
   1. GoLang
   	⋅⋅*
+	1. hi
+	2. k bye
   
   
   
   2. Docker
   	⋅⋅*
+	1. hi
+	2. k bye
   
   
   
   3. Bosswave
   	⋅⋅*
+	1. hi
+	2. k bye
+	
   
 # Projects 
 
