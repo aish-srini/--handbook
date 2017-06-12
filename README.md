@@ -1,11 +1,11 @@
- hello
+Hello!
 
- welcome, extravagant brilliant souls, to WEBS
+Welcome, extravagant brilliant souls, to WEBS
 #
- we are your predecessors and, having once been in your exact place, have created a handbook you can consult whenever you need. Enjoy!
+We are your predecessors and, having once been in your exact place, have created a handbook you can consult whenever you need. Enjoy!
 #
 # Essentials 
-  1. UNIX Commands
+  1. Common UNIX Commands
 
 	⋅⋅*
 	1. Echo : displays a line of text.
@@ -38,26 +38,52 @@
 		○ E.g. - "cd tempdir" Change directory to tempdir  / "cd.." moves you back one directory
 	
 	
-		
-  2. Git Commands (if you decide to save everything on your github account)
+
+  2. Git Commands (if you decide to save anything on your github account)
   	
 	⋅⋅*
-	1. 
+	1. git config
+	2. git add
+	3. git init - initializes a git repository in a new or existing 
+	4. git clone
+	5. git rm
+	6. git commit
+	7. git status
+	
 	
 	
   3. Networking Concepts
+  	⋅⋅*
+	○ OSI Model
+	○ Topology Networks
+	○ DHCP
+	○ DNS
+	○ TCP/IP
+	○ Switches
+	○ Networks (Subnets / Private and Public networks)
+	○ Client-Server (server-based networking)
+	○ IPv4 versus IPv6
+	○ VPN
+
+	
+
+  4. VMWare
   
   
   
-  4. GoLang
+  
+  5. GoLang
+  	⋅⋅*
   
   
   
-  5. Docker
+  6. Docker
+  	⋅⋅*
   
   
   
-  6. Bosswave
+  7. Bosswave
+  	⋅⋅*
   
   
 
