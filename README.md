@@ -123,11 +123,24 @@ We are your predecessors and, having once been in your exact place, have created
   
 # Projects 
 
-  1. Create a container
-  2. Rock-Paper-Scissors
-  	- Create a client-server interaction platform
-	- Rules:
-  3. 
+  1. Hamiltons
+  
+	..*
+	1. How to flash Hamiltons
+		1. Have with you the following materials : batteries, label maker, hamiltons, and more (INSERT HERE!!)
+		2. Place the 
+  	
+  
+  
+  2. Side projects:
+
+	..*
+  	1. Create a container
+	2. Rock-Paper Scissors:
+		1. Create a client-server interaction platform
+		2. Rules:
+	
+  3. Other stuff?
 
 #
 
