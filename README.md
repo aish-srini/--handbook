@@ -11,7 +11,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 	1. Echo : displays a line of text.
 		○ E.g. - "echo hello what is your name" --> hello what is your name
 	2. More : look at file, one page at a time
-		○ E.g. "more /usr/share/dict/british" --> press ENTER key if you want to 
+		○ E.g. "more /usr/share/dict/british" --> press ENTER key if you want to look at the file
 	3. Less : opens the file 
 		○ E.g. "less filename"
 	4. Mkdir : make a new directory
@@ -79,7 +79,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 	8. Switches
 	9. Ports
 	10. Client-Server (server-based networking)
-	11. VPN
+	11. VPN - a virtual private network, which allows you to create a secure connection to another network over the Internet (use 			cases include accessing region-restricted websites, and protecting sensitive data)
 	12. Security
 		1. Attacks and Vulnerabilities
 			1. DDos
