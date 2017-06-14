@@ -2,7 +2,7 @@ Hello!
 
 Welcome, extravagant brilliant souls, to WEBS
 #
-We are your predecessors and, having once been in your exact place, have created a handbook you can consult whenever you need. Enjoy!
+We are your predecessors, and have created a handbook you can consult whenever you need. Enjoy!
 #
 # Essentials 
   1. Common UNIX Commands
@@ -127,10 +127,24 @@ We are your predecessors and, having once been in your exact place, have created
   
 	..*
 	1. How to flash Hamiltons
-		1. Have with you the following materials : batteries, label maker, hamiltons, and more (INSERT HERE!!)
-		2. Place the 
+		1. Have with you the following materials : batteries, label maker, hamiltons, j-link wire with 3 prongs at the end, 				double-sided tape
+		2. Take out a single Hamilton from the silver bag containing pairs of two Hamiltons 
+		3. Place the three-pronged end of the j-link into the similar holes on the Hamilton (located on the top right corner of 			the device, in between 4 holes)
+		4. Hold the j-link in place, and press the Enter key on the computer attached
+		5. Once the flashing had completed, set the Hamilton down 
+			- Take care to remember the order in which you place them, in case you decide to flash multiple (maximum of 4) 					before proceeding to the next step!!!
+		6. Type a capitalized "L" on the computer
+			- This should trigger the label maker, which should print labels for the Hamiltons, in the order that they were 				flashed! 
+		7. Press "Cut" on the labelmaker, once it has finished printing
+		8. Cut the labels, but leave a little of the whitespace so the sticker can be peeled. 
+		9. Stick on the Hamilton such that the QR code is on the side, and the number/letter combination is along the front of the 			Hamilton. Look at an example for assistance. 
+		10. Place some double sided tape on a battery
+		11. Attach battery to the Hamilton, with the tape facing down
+		12. If you see a light flashing from the top of the Hamilton every few seconds, you're good to go!
+			- If you don't, do not be concerned, make sure you've placed the battery the correct way, and flashed it properly
+		13. Repeat steps 2-12.
   	
-  
+ 
   
   2. Side projects:
 
@@ -153,3 +167,5 @@ You may encounter this error while doing this. Try importing lib-ssl crypto some
 --* basically what was happening was that you didnt have a library that was being used by bosswave. nice.
     
   
+
+Created by Ashwarya Srinivas & John Yang
