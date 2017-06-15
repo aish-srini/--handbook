@@ -4,7 +4,7 @@ Welcome, extravagant brilliant souls, to WEBS
 #
 We are your predecessors, and have created a handbook you can consult whenever you need. Enjoy!
 #
-# Essentials 
+# Essentials
   1. Common UNIX Commands
 
 	..*
@@ -12,7 +12,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 		○ E.g. - "echo hello what is your name" --> hello what is your name
 	2. More : look at file, one page at a time
 		○ E.g. "more /usr/share/dict/british" --> press ENTER key if you want to look at the file
-	3. Less : opens the file 
+	3. Less : opens the file
 		○ E.g. "less filename"
 	4. Mkdir : make a new directory
 		○ E.g."mkdir tempdir" creates new directory names tempdir in the current directory
@@ -22,9 +22,10 @@ We are your predecessors, and have created a handbook you can consult whenever y
 		○ E.g. "mv myfile.txt destination-directory"
 	7. Cp : copy file from one directory to another
 		○ E.g. - "cp file1 web-docs"  ("cp from to")
+            ○ Also allows file renaming, e.g. - "cp originalName.py newName.py"
 	8. Grep : find which files contain a particular word (in case you can't remember the filename)
 		○ E.g. "grep "literal_string" filename"
-	9. Find : searches through the entire filesystem, and locates the files accroding to the specified criteria
+	9. Find : searches through the entire filesystem, and locates the files according to the specified criteria
 		○ E.g. "- find . -name foo.txt"
 	10. History - find previous commands you’ve typed w/ similar words
 		○ E.g. -  history | grep “build"
@@ -36,25 +37,25 @@ We are your predecessors, and have created a handbook you can consult whenever y
 		○ E.g. - type "ls" into current directory
 	14. cd - move to another directory
 		○ E.g. - "cd tempdir" Change directory to tempdir  / "cd.." moves you back one directory
-	
-	
+
+
 
   2. Git Commands (if you decide to save anything on your github account)
- 
+
  	..*
 	1. git config
 	2. git add
-	3. git init - initializes a git repository in a new or existing 
+	3. git init - initializes a git repository in a new or existing
 	4. git clone
 	5. git rm
 	6. git commit
 	7. git status
-	
-	
-	
+
+
+
   3. Networking Concepts
-  	
-	
+
+
 	..*
 	1. Operating Systems
 		1. UNIX-based Operating Systems
@@ -86,16 +87,16 @@ We are your predecessors, and have created a handbook you can consult whenever y
 		2. Firewalls
 		3. Public and Private Keys
 
-	
+
 
   4. VMWare
 
 	..*
   	1. hi
 	2. bye
-	
-  
-  
+
+
+
 # Languages and Programs
 
   1. GoLang
@@ -103,49 +104,49 @@ We are your predecessors, and have created a handbook you can consult whenever y
 	⋅⋅*
 	1. hi
 	2. k bye
-  
-  
-  
+
+
+
   2. Docker
 
 	⋅⋅*
 	1. hi
 	2. k bye
-  
-  
-  
+
+
+
   3. Bosswave
 
 	⋅⋅*
 	1. hi
 	2. k bye
-	
-  
-# Projects 
+
+
+# Projects
 
   1. Hamiltons
-  
+
 	..*
 	1. How to flash Hamiltons
 		1. Have with you the following materials : batteries, label maker, hamiltons, j-link wire with 3 prongs at the end, double-sided tape
-		2. Take out a single Hamilton from the silver bag containing pairs of two Hamiltons 
+		2. Take out a single Hamilton from the silver bag containing pairs of two Hamiltons
 		3. Place the three-pronged end of the j-link into the similar holes on the Hamilton (located on the top right corner of the device, in between 4 holes)
 		4. Hold the j-link in place, and press the Enter key on the computer attached
-		5. Once the flashing had completed, set the Hamilton down 
+		5. Once the flashing had completed, set the Hamilton down
 			- Take care to remember the order in which you place them, in case you decide to flash multiple (maximum of 4) before proceeding to the next step!!!
 		6. Type a capitalized "L" on the computer
-			- This should trigger the label maker, which should print labels for the Hamiltons, in the order that they were flashed! 
+			- This should trigger the label maker, which should print labels for the Hamiltons, in the order that they were flashed!
 		7. Press "Cut" on the labelmaker, once it has finished printing
-		8. Cut the labels, but leave a little of the whitespace so the sticker can be peeled. 
-		9. Stick on the Hamilton such that the QR code is on the side, and the number/letter combination is along the front of the Hamilton. Look at an example for assistance. 
+		8. Cut the labels, but leave a little of the whitespace so the sticker can be peeled.
+		9. Stick on the Hamilton such that the QR code is on the side, and the number/letter combination is along the front of the Hamilton. Look at an example for assistance.
 		10. Place some double sided tape on a battery
 		11. Attach battery to the Hamilton, with the tape facing down
 		12. If you see a light flashing from the top of the Hamilton every few seconds, you're good to go!
 			- If you don't, do not be concerned, make sure you've placed the battery the correct way, and flashed it properly
 		13. Repeat steps 2-12.
-  	
- 
-  
+
+
+
   2. Side projects:
 
 	..*
@@ -153,7 +154,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 	2. Rock-Paper Scissors:
 		1. Create a client-server interaction platform
 		2. Rules:
-	
+
   3. Other stuff?
 
 #
@@ -165,7 +166,7 @@ You may encounter this error along the way. Try "go get"-ing
 You may encounter this error while doing this. Try importing lib-ssl crypto something something.
 
 --* basically what was happening was that you didnt have a library that was being used by bosswave. nice.
-    
-  
+
+
 
 Created by Ashwarya Srinivas & John Yang
