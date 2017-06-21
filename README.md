@@ -5,7 +5,8 @@ Welcome, extravagant brilliant souls, to WEBS
 We are your predecessors, and have created a handbook you can consult whenever you need. Enjoy!
 #
 # Essentials
-  1. Common UNIX Commands
+
+## Common UNIX Commands
 
 	..*
 	1. Echo : displays a line of text.
@@ -40,20 +41,13 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 
 
-  2. Git Commands (if you decide to save anything on your github account)
+## Git Commands (if you decide to save anything on your github account)
 
- 	..*
-	1. git config
-	2. git add
-	3. git init - initializes a git repository in a new or existing
-	4. git clone
-	5. git rm
-	6. git commit
-	7. git status
+ 	
 
 
 
-  3. Networking Concepts
+## Networking Concepts
 
 
 	..*
@@ -89,7 +83,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 
 
-  4. VMWare
+## VMWare
 
 	..*
   	1. hi
@@ -99,7 +93,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 # Languages and Programs
 
-  1. GoLang
+## GoLang
 
 	⋅⋅*
 	1. hi
@@ -107,7 +101,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 
 
-  2. Docker
+## Docker
 
 	⋅⋅*
 	1. hi
@@ -115,7 +109,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 
 
-  3. Bosswave
+## Bosswave
 
 	⋅⋅*
 	1. hi
@@ -124,7 +118,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 # Projects
 
-  1. Hamiltons
+## Hamiltons
 
 	..*
 	1. How to flash Hamiltons
@@ -147,7 +141,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 
 
-  2. Side projects:
+## Side projects:
 
 	..*
   	1. Create a container
@@ -155,7 +149,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 		1. Create a client-server interaction platform
 		2. Rules:
 
-  3. Other stuff?
+## Other stuff?
 
 #
 
