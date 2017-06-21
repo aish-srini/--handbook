@@ -43,7 +43,7 @@ We are your predecessors, and have created a handbook you can consult whenever y
 
 ## Git Commands (if you decide to save anything on your github account)
 
- 	
+Have a look inside the Git folder on the mainpage, and you should be able to find what you're looking for! Best of luck :)
 
 
 
