@@ -47,7 +47,7 @@ Have a look inside the Git folder on the mainpage, and you should be able to fin
 
 
 
-## Networking Concepts
+## Brief Networking Terms/Concepts
 
 
 	..*
@@ -56,38 +56,31 @@ Have a look inside the Git folder on the mainpage, and you should be able to fin
 			1. Linux
 			2. Mac/OS
 		2. Windows
-	2. OSI Model
-		1. 7 layers:
-			1. hi
-			2. hi
-			3. hi
-			4. hi
-			5. hi
-			6. hi
-			7. hi
-	3. Topology Networks
-	4. Networks (Subnets / Private and Public networks)
-	5. TCP/IP
-		1. IPv4 versus IPv6
-	6. DHCP
-	7. DNS
-	8. Switches
-	9. Ports
-	10. Client-Server (server-based networking)
-	11. VPN - a virtual private network, which allows you to create a secure connection to another network over the Internet (use cases include accessing region-restricted websites, and protecting sensitive data)
-	12. Security
-		1. Attacks and Vulnerabilities
-			1. DDos
-		2. Firewalls
-		3. Public and Private Keys
+	2. Networks (Subnets / Private and Public networks)
+	3. IPv4 versus IPv6
+	4. DHCP
+	5. DNS
+	6. Switches
+	7. Ports:
+		1. Common constructs which serve as communication endpoints 
+			1. E.g. - to communicate between server and a client, both devices must use the same port
+		2. Port 22 - SSH
+		3. Port 80 - HTTP
+		4. More... - http://www.pearsonitcertification.com/articles/article.aspx?p=1868080
+	8. Client-Server (server-based networking)
+	9. VPN - a virtual private network, which allows you to create a secure connection to another network over the Internet (use cases include accessing region-restricted websites, and protecting sensitive data)
+	10. Public and Private Keys (Will come up later while operating bosswave!)
 
 
 
 ## VMWare
 
 	..*
-  	1. hi
-	2. bye
+  	1. Download Ubuntu onto your desktop : https://www.ubuntu.com/server
+	2. Open your VMWare application, and then upload the Ubuntu image
+	3. Set up git
+	4. Download GoLang by typing "sudo apt get install golang go"
+	5. Then "sudo apt get update"
 
 
 
